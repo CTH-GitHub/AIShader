@@ -2,7 +2,7 @@ namespace AIShader.OpenAI
 {
     public static class Api
     {
-        public const string Url = "https://api.openai.com/v1/chat/completions";
+        public const string Url = "https://api.deepseek.com/chat/completions";
     }
 
     [System.Serializable]
